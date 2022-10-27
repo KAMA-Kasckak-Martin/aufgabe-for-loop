@@ -1,10 +1,8 @@
 package org.example;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
-        int n, max;
+      /*  int n, max;
         Scanner s = new Scanner(System.in);
         System.out.print("Enter the number of elements in the array:");
         n = s.nextInt();
@@ -23,5 +21,12 @@ public class Main {
             }
         }
         System.out.println("Maximum value in the array is:"+max);
+*/
+
+        Numeros.negativNumber();
+
+        Numeros.smalestNumber();
     }
+
+
 }
